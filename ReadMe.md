@@ -1,4 +1,4 @@
-
+## SSM_Demo
 
 ### 版本
 
@@ -18,17 +18,17 @@ Moven 3.8.3
 
 - 需要基于mysql版本选择对应的链接包
 
-  ![image-20211018091703323](C:\Users\17875\Desktop\QQ截图20211018093020.png)
+  ![image-20211018091703323](https://github.com/1787594808/ReadMe-Pic/blob/main/1.png)
 
   [Maven Repository: Search/Browse/Explore (mvnrepository.com)](https://mvnrepository.com/)
 
   在该网站搜索对应的artifactId
 
-  <img src="C:\Users\17875\AppData\Roaming\Typora\typora-user-images\image-20211018091958908.png" alt="image-20211018091958908" style="zoom:50%;" />
+  <img src="https://github.com/1787594808/ReadMe-Pic/blob/main/2.png" alt="image-20211018091958908" style="zoom:50%;" />
 
   选择合适版本，将对应依赖代码粘贴至pom.xml处，
 
-  ![image-20211018092217725](C:\Users\17875\AppData\Roaming\Typora\typora-user-images\image-20211018092217725.png)
+  ![image-20211018092217725](https://github.com/1787594808/ReadMe-Pic/blob/main/3.png)
 
 - 修改jdbc.properties
 
@@ -36,11 +36,11 @@ Moven 3.8.3
 
   url跟改为自己数据库连接，修改hccsql为自己数据库名称。
 
-  ![image-20211018092451599](C:\Users\17875\AppData\Roaming\Typora\typora-user-images\image-20211018092451599.png)
+  ![image-20211018092451599](https://github.com/1787594808/ReadMe-Pic/blob/main/4.png)
 
 - 运行Test/java/test类，测试数据库是否连接。
 
-- 运行结果![image-20211018092857474](C:\Users\17875\AppData\Roaming\Typora\typora-user-images\image-20211018092857474.png)
+- 运行结果![image-20211018092857474](https://github.com/1787594808/ReadMe-Pic/blob/main/5.png)
 
 - 其余问题私聊我，若你有我联系方式的话。
 
